@@ -1,7 +1,7 @@
-# Canteen Management System  has SQL injection
+# Online Pizza Ordering System  has SQL injection
 
 BUG_Author: Pass-A
-vendors:[https://www.sourcecodester.com/php/15688/canteen-management-system-project-source-code-php.html](https://www.sourcecodester.com/php/16166/online-pizza-ordering-system-php-free-source-code.html)
+vendors:https://www.sourcecodester.com/php/16166/online-pizza-ordering-system-php-free-source-code.html
 
 Vulnerability File: /php-opos/admin/ajax.php
 
